@@ -1,0 +1,11 @@
+E:\reflection\Reflection\Reflection\Task3\bin\Debug\Task3.exe.config
+E:\reflection\Reflection\Reflection\Task3\bin\Debug\Task3.exe
+E:\reflection\Reflection\Reflection\Task3\bin\Debug\Task3.pdb
+E:\reflection\Reflection\Reflection\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+E:\reflection\Reflection\Reflection\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\reflection\Reflection\Reflection\Task3\obj\Debug\Task3.exe
+E:\reflection\Reflection\Reflection\Task3\obj\Debug\Task3.pdb
+E:\reflection\Reflection\Reflection\Task3\bin\Debug\Task2.exe
+E:\reflection\Reflection\Reflection\Task3\bin\Debug\Task2.pdb
+E:\reflection\Reflection\Reflection\Task3\bin\Debug\Task2.exe.config
+E:\reflection\Reflection\Reflection\Task3\obj\Debug\Task3.csproj.CopyComplete
